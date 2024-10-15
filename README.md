@@ -4,7 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Elon Musk NFT Smart Contract on OpenSea</title>
+  <title>
+    Elon Musk NFT Smart Contract on OpenSea
+  </title>
   <style>
     body {
       font-family: Arial, sans-serif;
